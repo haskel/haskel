@@ -2,7 +2,7 @@
 
 My projects:
 
-🦊 **Capfox** — Run or wait? Guard for hungry server tasks — ask before OOM kills
+🦊 **capfox** — Run or wait? Guard for hungry server tasks — ask before OOM kills
 [github.com/haskel/capfox](https://github.com/haskel/capfox)
 
 🛠 **gRPC-web bundle for Symfony** — [GrpcWebBundle](https://github.com/haskel/grpc-web-bundle)
