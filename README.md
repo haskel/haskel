@@ -2,7 +2,7 @@
 
 My projects:
 
-🥷 **markdown-ninja** — Notion-like WYSIWYG editor for Markdown files in VS Code
+🥷 **markdown-ninja** — Notion-like editor for Markdown files in VS Code
 [github.com/haskel/markdown-ninja](https://github.com/haskel/markdown-ninja)
 
 🦊 **capfox** — Capacity check for resource-heavy tasks on standalone servers
